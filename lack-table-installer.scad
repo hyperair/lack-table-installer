@@ -8,7 +8,7 @@ wall_thickness = 8;
 base_thickness = 13;
 depth = 50;
 
-bolt_size = M6;
+bolt_size = M8;
 clearance = 0.3;
 
 socket_dimensions = concat (leg_dimensions + [1, 1] * wall_thickness,
